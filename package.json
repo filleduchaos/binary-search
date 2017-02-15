@@ -1,0 +1,22 @@
+{
+  "name": "binary-search",
+  "version": "1.0.0",
+  "description": "Javascript project for Andela Home Sessions Day 3 (BinarySearch)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/binarysearch-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princess-essien/binary-search.git"
+  },
+  "author": "Princess-Jewel Essien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/princess-essien/binary-search/issues"
+  },
+  "homepage": "https://github.com/princess-essien/binary-search#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
